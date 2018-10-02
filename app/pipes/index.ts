@@ -1,0 +1,10 @@
+export { AgePipe } from './age';
+export { CamelCasePipe } from './camel';
+export { DateToStringPipe } from './date';
+export { FirstPipe } from './first';
+export { KeysPipe } from './keys';
+export { PeriodPipe } from './period';
+export { PetTitlePipe } from './pets';
+export { ProductPipe } from './product';
+export { TruncatePipe } from './truncate';
+export { ValuesPipe } from './values';
